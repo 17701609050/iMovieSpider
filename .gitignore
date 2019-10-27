@@ -1,0 +1,4 @@
+.idea/*
+*.pyc
+whoosh_index/*
+log/*
